@@ -8,7 +8,7 @@ featured_image: images/coding.png
 <img src="images/headshot.jpg" width="400">
 
 
-I am a graduate student that is currently studying data analytics.  I have 6+ years of experience in academic research settings, and a strong background in statistics and psychology.  I excel at data wrangling, mining and visualization.  I also have experience using Big Data technology and working with messy, real-world data sets.
+I am a graduate student that is currently studying data analytics at UMUC.  I have 6+ years of experience in academic research settings, and a strong background in statistics and psychology.  I excel at data wrangling, mining and visualization.  I also have experience using Big Data technology and working with messy, real-world data sets.
 
 ## Skills
 
