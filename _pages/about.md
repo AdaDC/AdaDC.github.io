@@ -13,7 +13,7 @@ I am a graduate student that is currently studying data analytics.  I have 6+ ye
 ## Skills
 
 * Languages: R (intermediate), Python, SQL, Linux/Shell scripting
-* Machine Learning and Predictive Modeling: Linear and logistic regression, Decision Trees, Bagging and Boosting, Support Vector Machines, Clustering
+* Machine Learning and Predictive Modeling: Linear and logistic regression, Decision Trees, Bagging and Boosting, Support Vector Machines, Clustering, Sentiment Analysis, Neural Networks
 * Big Data: Hadoop, MapReduce, Hbase, Apache Spark, MLlib
-* Data Visualization: R, ggplot, Tableau, Highcharts
+* Data Visualization: Matplotlib, ggplot, Tableau, Highcharts
 * Tools: RStudio, Jupyter Notebook, Github
