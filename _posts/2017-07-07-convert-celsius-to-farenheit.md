@@ -1,7 +1,8 @@
 ---
 title: 'Convert Celsius to Farenheit'
 date: 2017-07-07 00:00:00
-feature-img: '/images/convert_temp.jpg'
+image:
+  teaser: '/images/convert_temp.jpg'
 ---
 This program converts temperature to Celsius, using the formula
 <img src="https://www.pharmacy-tech-test.com/images/f_c_conv.jpg"/>
