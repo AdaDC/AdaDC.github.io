@@ -10,4 +10,5 @@ This presentation was made with open data from the World Bank and the Social Pro
 
 
 [World Bank Open Data](http://data.worldbank.org)
+
 [Social Progress Index](http://www.socialprogressindex.com)
