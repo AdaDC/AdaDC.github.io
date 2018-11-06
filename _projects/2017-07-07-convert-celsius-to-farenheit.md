@@ -1,5 +1,5 @@
 ---
-title: 'Convert Celsius to Farenheit'
+title: 'Convert Celsius to Fahrenheit'
 date: 2017-07-07 00:00:00
 featured_image: '/images/convert_temp.jpg'
 ---
@@ -22,9 +22,9 @@ try:
 except ValueError:
     print("Temperature must be an integer.  Please try again.  Goodbye.")
 
-# Use formula to convert temperature from Celsius to Farenheit
+# Use formula to convert temperature from Celsius to Fahrenheit
 tempF = (tempC * (9/5))+32
 
 # Print the result
-print("The temperature in Farenheit is " +str(tempF))
+print("The temperature in Fahrenheit is " +str(tempF))
 ```

@@ -1,5 +1,5 @@
 ---
-title: 'Data Cleansing Using Python'
+title: 'Cleaning Data with Python'
 date: 2018-11-06 00:00:00
 featured_image: '/images/sabrina_cleaning_data.jpg'
 ---

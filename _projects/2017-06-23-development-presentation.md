@@ -5,8 +5,7 @@ featured_image: '/images/world_development.jpg'
 ---
 This presentation was made with open data from the World Bank and the Social Progress Index.
 
-<iframe src="https://www.youtube.com/watch?v=OatWf2SxS6M" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
+<iframe width="640" height="360" src="http://www.youtube.com/embed/OatWf2SxS6M" frameborder="0" allowfullscreen></iframe>
 
 
 [World Bank Open Data](http://data.worldbank.org)
