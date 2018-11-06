@@ -241,8 +241,8 @@ get_picture(1)
 
 
 
+![png](/images/000002.jpg)
 
-<img src="img_align_celeba/000002.jpg"/>
 
 
 
@@ -543,7 +543,8 @@ get_picture2(attractiveRows[0])
 
 
 
-<img src="img_align_celeba/189505.jpg"/>
+![png](/images/189505.jpg)
+
 
 
 
@@ -558,7 +559,7 @@ get_picture(unattractiveRows[0])
 
 
 
-<img src="img_align_celeba/187507.jpg"/>
+![png](/images/187507.jpg)
 
 
 
