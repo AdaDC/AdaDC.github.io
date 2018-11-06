@@ -3,11 +3,11 @@ title: 'Cleaning Data with Python'
 date: 2018-11-06 00:00:00
 featured_image: '/images/sabrina_cleaning_data.jpg'
 ---
-This example shows how to clean a dataset.  It removes duplicates and splits data that is all stored in one column into seperate columns.  Finally it writes the cleansed data to a .csv file.
+This example shows how to clean a dataset.  It removes duplicates and splits data that is stored all in one column into seperate columns.  Finally it writes the cleansed data to a .csv file.
 
 <img src="https://media.giphy.com/media/3gPN8q3snGN759GAeY/giphy.gif" alt="Sabrina blowing out candles" title="Title text" />
 
-For this example, dummy data based on [The Chilling Adventures of Sabrina](https://en.wikipedia.org/wiki/Chilling_Adventures_of_Sabrina_(TV_series)
+For this example, dummy data based on [The Chilling Adventures of Sabrina](https://www.netflix.com/title/80223989)
 will be used.  
 
 
