@@ -498,7 +498,7 @@ t= f.suptitle('CelebA Attributes Correlation', fontsize=14)
 ```
 
 
-![png](images/output_18_0.png)
+![png](/images/output_18_0.png)
 
 
 We can see that the trait attractive often occurs with heavy makeup and wearing lipstick, and is negatively correlatied with bags under eyes.
@@ -519,7 +519,7 @@ plt.tight_layout(rect=(0, 0, 10, 10))
 ```
 
 
-![png](images/output_21_0.png)
+![png](/images/output_21_0.png)
 
 
 ## Are there differences between the attractive and unattractive images?
