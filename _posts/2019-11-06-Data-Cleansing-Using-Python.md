@@ -1,7 +1,7 @@
 ---
 title: 'Data Cleansing Using Python'
 date: 2018-11-06 00:00:00
-featured_image: 'images/sabrina_cleaning_data.jpg'
+featured_image: '/images/sabrina_cleaning_data.jpg'
 ---
 This example shows how to clean a dataset.  It removes duplicates and splits data that is all stored in one column into seperate columns.  Finally it writes the cleansed data to a .csv file.
 

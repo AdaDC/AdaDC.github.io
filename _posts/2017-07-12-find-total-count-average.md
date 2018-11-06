@@ -1,7 +1,7 @@
 ---
 title: 'Find Total, Count, and Average'
 date: 2017-07-12 00:00:00
-featured_image: 'images/find_total_count_average.jpg'
+featured_image: '/images/find_total_count_average.jpg'
 ---
 
 This program will repeatedly read numbers until user types <b>done</b>.  Then program will display total, count, and average of all the numbers. If the user enters something that isn't a number, there will be an error.

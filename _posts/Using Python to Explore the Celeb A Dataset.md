@@ -1,7 +1,7 @@
 ---
 title: 'Exploration of the Celeb A Dataset'
 date: 2018-10-29 00:00:00
-featured_image: 'images/celeb_data_exploration.png'
+featured_image: '/images/celeb_data_exploration.png'
 ---
 <img src="http://mmlab.ie.cuhk.edu.hk/projects/celeba/intro.png" alt="header" width="550">
 
